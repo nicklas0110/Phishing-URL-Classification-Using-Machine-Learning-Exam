@@ -38,8 +38,8 @@ This project was completed as part of a machine learning exam. The goal is to cl
 ## **Usage**
 1. Clone this repository:
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone https://github.com/nicklas0110/Phishing-URL-Classification-Using-Machine-Learning-Exam
+   cd Phishing-URL-Classification-Using-Machine-Learning-Exam
    ```
 2. Ensure Python and required libraries are installed.
 3. Run the provided Jupyter Notebook or Python script to replicate results.
